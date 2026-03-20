@@ -1,11 +1,52 @@
 ---
-title: "data-science-portfolio-nestor"
+title: "Home"
+Author: "Nestor Parada"
 ---
 
-This is a Quarto website.
+# Welcome 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m Nestor.
 
-```{r}
-1 + 1
-```
+I am a data science student with a strong interest in data analysis, business analytics, and solving real-world problems using data. This portfolio showcases my projects, skills, and experience as I continue to grow in the field.
+
+------------------------------------------------------------------------
+
+## About Me
+
+I enjoy working with data to uncover insights and support decision-making. My background includes experience in analytics, technology, and problem-solving, and I am continuously improving my skills in data science tools and techniques.
+
+------------------------------------------------------------------------
+
+## Skills
+
+-   R & Quarto\
+-   Data Visualization\
+-   Data Cleaning & Transformation\
+-   SQL & Databases\
+-   Business Analytics\
+-   Git & GitHub
+
+------------------------------------------------------------------------
+
+## Projects
+
+Here are some of the projects I’ve worked on:
+
+-   Data Visualization Project\
+-   Business Analytics Case Study\
+-   Exploratory Data Analysis (EDA)
+
+*(You’ll replace these with real projects later)*
+
+------------------------------------------------------------------------
+
+## Contact
+
+-   GitHub: [NestorParada99](https://github.com/NestorParada99)\
+-   LinkedIn: <https://www.linkedin.com/in/nestorparada>
+
+------------------------------------------------------------------------
+
+## Goal
+
+My goal is to build a strong portfolio that demonstrates my ability to analyze data, communicate insights, and create value through data-driven decisions.
