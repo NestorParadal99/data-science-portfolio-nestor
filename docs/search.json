@@ -46,6 +46,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site ## About Me\nHi, I’m Nestor.\nI’m a data science student with a strong interest in business analytics, problem-solving, and using data to create real impact. My journey has been shaped by both technology and entrepreneurship, which has helped me see data not just as numbers, but as a tool to make better decisions.\nI currently work in IT, where I manage systems, troubleshoot technical issues, and support operations that require precision and attention to detail. This experience has strengthened my analytical thinking and taught me how to solve problems in real time.\nAt the same time, I’ve been building my skills in data science through projects using tools like R and Quarto, focusing on data visualization, analysis, and storytelling. I enjoy taking complex data and turning it into something clear and useful.\nBeyond academics and work, I have an entrepreneurial mindset. I’ve explored ideas like reselling products, working with precious metals and emeralds, and building small business concepts. These experiences have helped me understand markets, pricing, and the real-world value of data-driven decisions.\nComing from Colombia and studying in the United States has also shaped my perspective. It has pushed me to grow, adapt, and stay focused on long-term goals, both professionally and personally."
+  },
+  {
+    "objectID": "about.html#goal",
+    "href": "about.html#goal",
+    "title": "About",
+    "section": "Goal",
+    "text": "Goal\nMy goal is to build a strong career in data analytics or business intelligence, where I can combine technical skills with business strategy. I want to use data to help organizations make smarter decisions, improve performance, and create meaningful results.\nIn the long term, I also aim to grow my own business ventures and use data as a foundation for smarter financial and entrepreneurial decisions."
   }
 ]
