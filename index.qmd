@@ -3,7 +3,7 @@ title: "Home"
 Author: "Nestor Parada"
 ---
 
-# Welcome 
+# Welcome
 
 Hi, I’m Nestor.
 
